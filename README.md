@@ -131,7 +131,7 @@ Which day? friday
 ---
 
 ## Author
-Varsha Maruti Gavari
+Varsha Gavari
 ---
 
 ## License
